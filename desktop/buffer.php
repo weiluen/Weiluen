@@ -1,7 +1,4 @@
 <?PHP
-  // Adapted for The Art of Web: www.the-art-of-web.com
-  // Based on PHP code by Dennis Pallett: www.phpit.net
-  // Please acknowledge use of this code by including this header.
 
   // location and prefix for cache files
   define('CACHE_PATH', "tmp/cache_");

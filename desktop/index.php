@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <?php include('buffer.php'); ?>
 <title>James W Huang</title>
-<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
 <link rel="stylesheet" type="text/css" href="http://www.weiluen.com/css/bootstrap.min.css" />
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:700,400,300,italic" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="http://www.weiluen.com/favicon.ico" type="image/x-icon" />
