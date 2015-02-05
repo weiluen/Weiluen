@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bit.ly Service\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-16 16:21-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Luis Alberto Ochoa Esparza <soy@luisalberto.org>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bitly-service.php:169
+msgid "Shortlink"
+msgstr ""
+
+#: bitly-service.php:172
+msgid "Share on Twitter"
+msgstr ""
+
+#: bitly-service.php:173
+msgid "User's Stats"
+msgstr ""
+
+#: bitly-service.php:174
+msgid "Global Stats"
+msgstr ""
+
+#: bitly-service.php:263
+#: bitly-service.php:280
+msgid "Bit.ly Service Settings"
+msgstr ""
+
+#: bitly-service.php:288
+msgid "Login Name"
+msgstr ""
+
+#: bitly-service.php:291
+#: bitly-service.php:298
+#, php-format
+msgid "Enter your %s."
+msgstr ""
+
+#: bitly-service.php:295
+msgid "API Key"
+msgstr ""
+
+#: bitly-service.php:302
+msgid "Domain"
+msgstr ""
+
+#: bitly-service.php:304
+msgid "Select a domain you would  like to use."
+msgstr ""
+
+#: bitly-service.php:312
+#, php-format
+msgid "You can also use your own short domain with %s."
+msgstr ""
+
+#: bitly-service.php:316
+msgid "QR Code"
+msgstr ""
+
+#: bitly-service.php:319
+msgid "Enter size of the QR Code (in pixels). Default: 249"
+msgstr ""
+
+#: bitly-service.php:374
+msgid "Settings"
+msgstr ""
+

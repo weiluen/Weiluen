@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: /blog/wp-admin/
+Disallow: /test/
+Disallow: /stats/

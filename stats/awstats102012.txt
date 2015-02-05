@@ -1,0 +1,642 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201210 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2555                
+POS_VISITOR 3713                
+POS_DAY 8482                
+POS_DOMAIN 9182                
+POS_LOGIN 9418                
+POS_ROBOT 9606                
+POS_WORMS 10320               
+POS_EMAILSENDER 10451               
+POS_EMAILRECEIVER 10594               
+POS_SESSION 10670               
+POS_SIDER 10880               
+POS_FILETYPES 14341               
+POS_OS 14577               
+POS_BROWSER 14734               
+POS_SCREENSIZE 15122               
+POS_UNKNOWNREFERER 15196               
+POS_UNKNOWNREFERERBROWSER 16150               
+POS_ORIGIN 16643               
+POS_SEREFERRALS 16792               
+POS_PAGEREFS 16962               
+POS_SEARCHWORDS 17621               
+POS_KEYWORDS 17956               
+POS_MISC 2219                
+POS_ERRORS 18194               
+POS_CLUSTER 9274                
+POS_SIDER_404 18378               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121101001443 100794 15194142 39617228554
+FirstTime 20121010101923
+LastTime 20121031123718
+LastUpdate 20121110123811 100794 0 100793 0 0
+TotalVisits 155                 
+TotalUnique 98                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 122                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 350 914 30691551 6558 6569 3682578
+1 207 646 6706379 1269 1277 583370
+2 194 335 378543 16 18 27577
+3 276 525 19740005 99 120 83484
+4 441 1280 70025471 274 461 790587
+5 437 925 4956109 197 373 594597
+6 494 904 2983181 150 244 323194
+7 623 1192 13300896 348 459 572875
+8 473 717 4663510 66 68 208331
+9 437 696 6094927 90 211 438070
+10 531 1021 38080843 206 227 370268
+11 578 1452 129883141 315 402 980499
+12 514 967 12344917 636 722 3913968
+13 433 657 12237399 116 128 114891
+14 794 1400 103122660 293 413 1404327
+15 652 1051 26502465 1068 1099 772060
+16 825 2869 29856837 8950 9018 4302519
+17 715 2068 15233372 9330 9388 4349565
+18 629 1232 5267215 8785 8818 5140957
+19 705 1619 7470726 8638 8657 4077309
+20 865 1492 15145359 8125 8194 4525660
+21 522 1191 11438477 6169 6338 4843242
+22 312 780 8469992 5135 5173 2783336
+23 437 873 9892948 5480 5504 3820233
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 122
+125.27.134.171 3410 4892 6002787 20121021064738
+125.27.130.203 1930 2418 8820291 20121023220321
+125.27.135.133 1732 3422 86853378 20121022190542
+125.27.134.4 1399 4836 48130916 20121019025509
+198.144.105.241 649 736 518386 20121021101739
+125.27.132.68 646 1830 2387925 20121019201039
+125.27.133.143 473 1177 7784631 20121021212914
+125.27.135.112 448 1694 5973563 20121019080136
+125.27.142.212 277 534 3644275 20121025220643
+125.27.129.99 254 840 41150784 20121031011050
+70.57.34.197 43 258 19334092 20121029170244
+128.69.230.133 1 30 1450002 20121020205206
+66.220.152.1 0 1 67313 
+67.228.50.131 4 4 54636 20121023101112
+79.195.228.198 1 1 3730 20121020042218
+173.227.64.130 13 125 5243822 20121023144241
+125.27.129.98 51 129 807860 20121022211301
+69.163.36.90 2 11 56458 20121029115508
+125.27.129.169 2 62 1483682 20121028100157
+37.10.113.30 1 1 12046 20121021171813
+125.27.140.214 53 53 14522 20121021101905
+125.27.131.181 8 59 1767252 20121028070918
+128.249.1.198 1 15 671779 20121029120549
+69.171.229.114 0 1 49950 
+118.174.58.238 3 42 1527308 20121029104148
+125.27.134.176 37 138 3724314 20121017161503
+72.179.133.222 3 21 396820 20121029112926
+8.7.228.252 12 109 18428829 20121029114022
+24.63.48.230 1 14 501953 20121025211759
+118.172.72.132 2 40 1532347 20121025033835
+118.172.77.98 1 31 6021 20121030084656
+125.27.129.157 1 1 6029 20121028125221
+75.126.109.226 9 9 84158 20121030233202
+118.172.76.159 3 53 2616285 20121018115345
+71.167.18.49 1 31 1477653 20121029114842
+63.149.124.133 6 94 2254136 20121025212214
+50.117.54.161 1 1 316 20121022080944
+69.171.237.13 0 1 67313 
+157.56.93.230 1 4 12327 20121026180327
+204.187.14.74 2 19 993703 20121025211719
+8.18.121.75 2 2 24002 20121021042720
+72.66.115.14 2 29 1471334 20121025211530
+125.27.135.187 11 76 3335829 20121017211557
+125.27.142.191 9 70 239459 20121030050622
+207.198.112.63 0 1 351 
+69.171.234.4 0 1 25354 
+125.27.132.250 2 32 88214 20121026074650
+98.245.186.54 3 42 1363236 20121020200537
+125.27.143.204 11 88 318117 20121027175534
+118.172.90.83 1 6 419543 20121014095201
+125.27.135.121 17 17 4658 20121019095036
+77.78.109.73 1 1 2677 20121016013009
+72.232.7.47 1 1 205 20121018142117
+69.171.228.248 0 4 231586 
+69.171.229.115 0 1 67313 
+69.171.228.247 0 1 53947 
+69.171.228.251 0 2 67979 
+125.27.140.38 2 7 420349 20121014095118
+198.144.105.90 9 100 222427 20121019015512
+8.30.147.43 1 1 12107 20121020044622
+69.171.229.116 0 1 142861 
+118.172.65.180 12 126 11161269 20121023101114
+118.174.50.215 2 3 127289 20121017030722
+8.30.147.45 1 1 11646 20121020180357
+128.249.1.206 0 16 805874 
+69.171.234.0 0 3 131517 
+118.172.92.222 3 71 1532633 20121030032603
+125.27.142.226 71 110 591944 20121028195241
+98.139.160.207 0 388 247508347 
+125.27.128.175 29 30 7946 20121019093236
+117.240.239.225 1 4 21671 20121025204113
+38.100.21.65 8 10 244773 20121022230741
+173.236.29.218 21 47 867177 20121025123929
+69.171.234.7 0 1 20700 
+69.171.237.11 0 1 3372 
+69.171.234.2 0 4 371916 
+46.42.164.246 1 31 1477653 20121029045119
+78.158.11.226 1 1 207 20121030120354
+46.242.29.246 1 30 1498400 20121020122056
+125.27.134.113 98 180 2784731 20121016190108
+69.171.234.3 0 2 6166 
+69.171.234.1 0 4 198292 
+125.27.132.204 19 19 5206 20121019082136
+46.105.156.53 1 1 11895 20121021110904
+125.27.136.97 109 183 1110128 20121030170515
+184.154.132.90 50 92 1621251 20121030123113
+50.117.72.243 14 41 180942 20121021070802
+218.207.176.116 1 1 5072 20121020163349
+218.102.228.207 1 1 5783 20121024030141
+204.187.14.75 1 1 224 20121025211444
+125.27.136.138 47 129 40428 20121019090236
+125.27.138.228 61 61 16714 20121019105237
+125.27.128.59 7 8 100109 20121030180805
+118.172.77.123 2 13 267361 20121027110608
+69.201.148.186 2 31 1416353 20121029175947
+118.172.84.223 6 45 71458 20121029034940
+65.55.208.48 2 2 22881 20121022000112
+69.171.228.250 0 2 166728 
+69.84.207.246 0 7 2130297 
+173.231.28.242 1 1 2475 20121018055912
+125.27.143.36 6 162 215249 20121029124152
+125.27.141.30 1 1 1322 20121012045816
+69.171.237.15 0 1 67313 
+125.27.136.205 128 128 35430 20121022201019
+125.27.130.107 111 171 1480024 20121030074612
+69.171.224.115 0 1 67313 
+109.206.168.114 1 1 17425 20121024095142
+69.58.178.59 2 2 5354 20121010102010
+118.174.56.172 5 114 10488214 20121028040836
+69.175.118.170 33 58 889256 20121031123718
+50.117.56.104 1 1 274 20121022100656
+69.171.228.245 0 2 166724 
+118.174.62.76 3 95 6720163 20121031071427
+8.28.16.254 6 6 89165 20121030202810
+118.174.63.24 6 63 1645752 20121020113355
+76.74.254.38 1 1 190 20121019125820
+67.217.35.30 9 9 39290 20121026083730
+74.200.247.238 1 1 190 20121018202913
+125.27.140.202 1 31 6029 20121027210538
+220.227.89.237 2 34 1432533 20121025221647
+69.171.228.246 0 2 134626 
+37.10.113.138 1 1 11119 20121023063457
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20121010 3 3 8031 2
+20121011 1 1 2677 1
+20121012 2 2 3999 2
+20121013 1 1 2677 1
+20121014 4 14 842569 3
+20121015 1 1 2677 1
+20121016 110 194 2962929 5
+20121017 60 229 7252989 6
+20121018 1315 4523 50555475 10
+20121019 1385 4317 11363176 14
+20121020 2233 3848 12649539 15
+20121021 2403 3294 9759556 13
+20121022 1927 4031 327843169 11
+20121023 1962 2687 25617446 6
+20121024 7 12 226947 3
+20121025 367 828 13252053 11
+20121026 20 63 580645 4
+20121027 61 369 18584241 8
+20121028 28 300 14021976 9
+20121029 45 615 29877392 14
+20121030 418 928 17034728 13
+20121031 91 546 42042032 3
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 12444 26806 584486923
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+weiluen 2 6 25414 20121025202729
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+wordpress 1169 79882 20121031223914 0
+spider 261 3266398 20121031123731 0
+no_user_agent 116 2365665 20121030225558 0
+crawl 66 637768 20121025205053 0
+googlebot 60 4052767 20121031181155 0
+yandex 53 818494 20121031212713 0
+feedfetcher\-google 26 156517 20121031223909 0
+baiduspider 10 218246 20121030100301 0
+bot[+:,\.\;\/\\-] 4 15353 20121031023020 0
+slurp 2 11764 20121029142528 0
+blogpulse 1 291 20121018070247 0
+robot 2 35710 20121029123900 0
+surveybot 2 7351 20121028105457 0
+raven 2 1829 20121030175357 0
+mj12bot 2 8698 20121030072345 0
+msnbot\-media 1 25354 20121030205018 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 23
+5mn-15mn 11
+2mn-5mn 4
+15mn-30mn 12
+30s-2mn 25
+0s-30s 71
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 92
+/blog/wp-admin/admin-ajax.php 8825 6405395 14 20
+/blog/ 447 2150135 14 20
+/ 414 1974929 93 52
+/blog/wp-admin/theme-editor.php 394 10848613 2 1
+/blog/wp-admin/media-upload.php 181 26870982 0 0
+/blog/wp-admin/async-upload.php 178 583023 0 0
+/blog/wp-admin/post.php 161 10574730 0 0
+/blog/wp-admin/admin.php 136 1690315 0 0
+/blog/32 116 383216 4 3
+/blog/wp-admin/load-scripts.php 112 3375046 0 1
+/blog/wp-admin/options-general.php 75 2592820 0 0
+/blog/247 2 11445 1 1
+/blog/wp-admin/media.php 22 563201 0 0
+/blog/2012/09/ 2 11794 0 0
+/blog/wp-admin/tools.php 7 175305 0 0
+/blog/37 82 227993 0 4
+/blog/wp-admin/theme-install.php 5 175187 0 0
+/blog/wp-admin/options.php 9 135 0 0
+/stats/ 1 2347 0 0
+/blog/imgs/09a8a77a-7aae-44a7-9030-d4d1d3c47c08.txt 1 380 0 1
+/index_zco9jc9ec1.php 1 17182 0 0
+/blog/85/img_7769 3 13318 1 1
+/blog/85 69 543698 1 4
+/blog/wp-admin/media-new.php 1 26899 0 0
+/blog/author/admin 17 174363 0 4
+/blog/22 28 93193 1 4
+/blog/wp-admin/users.php 16 463610 0 0
+/blog/wp-admin/options-writing.php 14 428646 0 0
+/blog/wp-admin/options-reading.php 8 209005 0 0
+/blog/85/pic-31-1 9 74220 0 8
+/blog/wp-admin/edit-comments.php 20 737998 0 0
+/test/ 3 2418 2 2
+/blog/author/admin/ 4 23998 0 1
+/blog/wp-admin/plugin-editor.php 5 252611 0 0
+/blog/wp-admin/nav-menus.php 4 216587 0 0
+/error.php 10 177360 0 0
+/blog/index.php 5 10 0 0
+/blog/wp-admin/ 59 396586 0 0
+/blog/wp-admin/revision.php 1 30862 0 0
+/blog/wp-login.php 46 83661 2 2
+/blog/32/wale-ambition-copy 9 36898 1 1
+/index_v7k6yc98ys.php 1 17199 1 0
+/blog/wp-admin/profile.php 29 803903 0 0
+/blog/wp-admin/user-new.php 5 109758 0 0
+/blog/32/lawschool 27 119089 1 1
+/email.php 9 915 0 0
+/blog/wp-admin/plugin-install.php 53 2508730 0 0
+/blog/42 30 98819 1 1
+/blog/85/pic-5 1 8182 1 1
+/blog/wp-admin/load-styles.php 34 788633 0 0
+/thank-you.html 3 1268 0 0
+/sent.php 1 17735 0 0
+/blog/wp-admin/customize.php 16 151430 0 0
+/blog/wp-admin/themes.php 49 1782045 1 0
+/blog/32/water-world_mg_0828_v2 13 43555 1 1
+/blog/sample-page/ 5 24409 0 0
+/blog/wp-includes/js/tinymce/wp-tinymce.php 6 606726 0 0
+/indexboot.html 41 60427 3 3
+/blog/xmlrpc.php 65 264832 5 4
+/index_l764vc7lc3.php 1 16522 0 0
+/index_fj6nfc9zaz.php 1 16729 1 0
+/blog/the-first-of-many/ 5 24908 0 0
+/blog/wp-admin/update-core.php 17 403307 0 0
+/blog/where-is-here/ 3 16513 0 0
+/blog/wordpress 1 249 0 0
+/blog/wp-admin/options-permalink.php 6 179046 0 0
+/blog/19 18 75699 1 3
+/blog/85/attachment/042 1 8204 0 0
+/blog/13 32 135059 0 2
+/blog/category/uncategorized/ 8 37526 0 0
+/blog/hello-world/ 28 125111 0 0
+/blog/feed/ 3 9375 0 0
+/blog/wp-admin/options-discussion.php 4 131044 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html 1 3236 0 0
+/blog/wp-admin/plugins.php 72 3199095 0 0
+/blog/wp-admin/edit.php 73 3730163 1 1
+/stats/usage_201210.html 1 12063 0 0
+/blog/wp-admin/post-new.php 16 965523 0 0
+/blog/foreign/ 37 139685 0 0
+/blog/wp-admin/options-privacy.php 5 127120 0 0
+/blog/85/pic-23-1 1 8150 0 0
+/blog/wp-admin/link-manager.php 1 34214 0 0
+/blogger/ 1 2624 0 0
+/blog/wp-admin/about.php 1 24098 0 0
+/blog/wp-admin/index.php 8 269271 0 1
+/blog/comments/feed/ 2 3422 0 0
+/blog/wp-admin/options-media.php 19 486045 0 0
+/index.php 86 1342770 2 4
+/blog/wp-admin/widgets.php 1 85498 0 0
+/blog/search/1 2 12124 0 1
+/blog/wp-admin/upload.php 75 4725737 0 0
+/blog/wp-admin/update.php 24 412930 0 2
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1770 5445054 0 0
+png 3891 16659417 0 0
+txt 1 380 0 0
+php 10914 89700201 0 0
+html 1068 5022774 0 0
+jpg 6461 461658269 0 0
+js 1911 3524607 0 0
+Unknown 461 2067474 0 0
+gif 329 408747 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+winlong 1
+winxp 309
+win2000 389
+winvista 1512
+linux 20
+linuxfedora 1
+macosx 992
+win2003 10
+Unknown 131
+win2008 23441
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 25
+msie6.0 409
+firefox17.0 16
+chrome 24219
+opera 94
+firefox3.6.6 702
+firefox3.0.14 1
+firefox4.0 1
+firefox3.0.11 1
+lynx 1
+firefox12.0 1
+firefox3.5.3 3
+firefox3.5.12 1
+msie8.0 126
+firefox13.0.1 20
+mozilla 11
+msie7.0 66
+firefox14.0.1 4
+firefox16.0 31
+msie10.0 31
+msie9.10 90
+msie9.0 226
+Unknown 67
+firefox15.0.1 18
+safari 573
+firefox10.0.5 94
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+The_Incutio_XML-RPC_PHP_Library 20121019125820
+MMHttp_(Windows;_Version:12.0) 20121021233540
+Mozilla/5.0_(Windows;_U;_en_US)_AppleWebKit/530.19.2_(KHTML,_like_Gecko)_Dreamweaver/11.5.0.5315_Version/4.0.2_Safari/530.19.2 20121020161622
+Mozilla/3.0_(compatible;_BlogJet) 20121030174204
+Disqus/1.0 20121030233202
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20121030120354
+Mozilla/5.0_(Windows;_U;_en_US)_AppleWebKit/533.19.4_(KHTML,_like_Gecko)_Dreamweaver/12.0.0.5808_Version/5.0.3_Safari/533.19.4 20121021143359
+MMHttp_(Windows;_Version:11.5) 20121020163839
+intelium_bot 20121026083730
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20121031152652
+Photon/1.0 20121018144320
+Mozilla/4.0_(compatible;) 20121030202810
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20121010102010
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+The_Incutio_XML-RPC_PHP_Library 20121019125820
+MMHttp_(Windows;_Version:12.0) 20121021233540
+Disqus/1.0 20121030233202
+MMHttp_(Windows;_Version:11.5) 20121020163839
+intelium_bot 20121026083730
+Photon/1.0 20121018144320
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20121031152652
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20121010102010
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 706 1855
+From1 0 1
+From2 117 210
+From3 45 45
+From4 11576 24695
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 114 207
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://disqus.com/embed/comments/ 14 14
+http://testsize.com 6 6
+http://www.facebook.com/groups/199577033468476/permalink/365775240181987/ 5 5
+http://wei-luen.com 4 4
+http://diaryofafarang.blogspot.com 3 3
+https://www.facebook.com 3 3
+http://quirktools.com/screenfly/ 3 3
+http://www.facebook.com/l.php 2 2
+http://www.facebook.com 2 2
+http://evuln.com/tools/malware-scanner/www.weiluen.com/ 1 1
+http://www.pagesinventory.com/domain/www.weiluen.com.html 1 1
+http://www.ipage.com/controlpanel/VisitorStats.bml 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+weiluen.com 5
+http+%2f%2fweiluen.com%2f 2
+http+%2f%2fweiluen.com%2findexboot.html 1
+to+your+wordpress+themes+folder 1
+http+%2f%2fwww.weiluen.com 1
+http+%2f%2fwww.weiluen.com%2ftest 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 11
+weiluen.com 5
+http 5
+%2f%2fweiluen.com%2f 2
+themes 1
+%2f%2fwww.weiluen.com%2ftest 1
+wordpress 1
+%2f%2fwww.weiluen.com 1
+folder 1
+%2f%2fweiluen.com%2findexboot.html 1
+to 1
+your 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 1 732
+302 70769 32030858
+206 42 1773525
+400 1 226
+500 46 60358
+405 5 1235
+301 163 74895
+404 1077 3059581
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 66
+/blog/assets/2012-09-09%252008.55.00.jpg 1 -
+/robots.txt 17 -
+/blog/plugins/lightview-plus/css/lightview/lightview.css 1 http://www.weiluen.com/blog/
+/blog/css/bootstrap.css 17 http://wwww.weiluen.com/blog/
+/blog/assets/2012-09-02%252014.35.15-300x400.jpg 1 -
+/blog/plugins/nextgen-gallery/js/ngg.slideshow.min.js 1 -
+/blog/assets/2012-09-09%252009.09.49.jpg 1 -
+/blog/wp-admin.php 1 -
+/blog/assets/js/main.js 130 -
+/blog/wp-content/plugins/fancybox-plus/img/icon200.png 2 http://www.weiluen.com/blog/wp-admin/options-general.php
+/blog/wlwmanifest.xml 7 -
+/blog/wp-admin/logos/huang.png 14 http://wwww.weiluen.com/blog/wp-admin/
+/js/jquery-1.8.2.min.js 2 http://weiluen.com/
+/blog/assets/2012-09-10%252018.31.06.jpg 1 -
+/Version2 1 -
+/blog/wp-admin/css/theme-editor.css 1 http://www.weiluen.com/blog/wp-admin/admin.php
+/blog/wp-admin-panel.php 1 -
+/blog/assets/2012-09-02%252014.35.15.jpg 1 -
+/th1s_1s_a_4o4.html 9 http://www.google.com/url
+/blog/assets/2012-09-18%252012.16.54-800x600.jpg 1 -
+/blog/assets/2012-09-09%252008.55.00-400x300.jpg 1 -
+/blog/plugins/lightview-plus/js/lightview/lightview.js 1 http://www.weiluen.com/blog/
+/blog/assets/2012-09-02%252014.35.15-450x600.jpg 1 -
+/blog/assets/css/app.css 128 -
+/blog/plugins/lightview-plus/js/spinners/spinners.min.js 1 http://www.weiluen.com/blog/
+/blog/assets/2012-09-10%252018.31.06-800x600.jpg 1 -
+/version2 1 -
+/a 1 -
+/blog/assets/2012-09-09%252009.09.49-450x600.jpg 1 -
+/blog/plugins/nextgen-gallery/js/jquery.cycle.all.min.js 1 -
+/blog/assets/2012-09-09%252009.09.49-170x100.jpg 13 http://www.weiluen.com/blog/wp-admin/media-upload.php
+/blog/wp-admin/logos/logo6.png 14 http://wwww.weiluen.com/blog/wp-admin/
+/blog/wp-admin/img/me.png 14 http://wwww.weiluen.com/blog/wp-admin/
+/blog/assets/2012-09-10%252018.31.06-400x300.jpg 2 http://www.weiluen.com/blog/
+/blog/assets/2012-09-10%252018.31.06-170x100.jpg 13 http://www.weiluen.com/blog/wp-admin/media-upload.php
+/blog/img/me.png 19 http://wwww.weiluen.com/blog/
+/wp-admin 9 -
+/blog/ 1 -
+/blog/assets/css/bootstrap.css 132 -
+/blog/wp-admin/logos/logoabstract.png 14 http://wwww.weiluen.com/blog/wp-admin/
+/blog/plugins/nextgen-gallery/css/nggallery.css 2 -
+/Logos/logoabstract.png 4 http://weiluen.com/indexboot.html
+/blog/wordpress 1 -
+/main.html 1 -
+/blog/8 1 http://weiluen.com/
+/blog/hello-world/ 2 http://www.weiluen.com/blog/
+/blog/wp-admin/css/bootstrap.css 14 http://wwww.weiluen.com/blog/wp-admin/
+/strip.jpg 7 http://www.weiluen.com/indexboot.html
+/blog/logos/logo6.png 18 http://wwww.weiluen.com/blog/
+/blog/assets/css/bootstrap-responsive.css 130 -
+/blog/assets/2012-09-18%252012.16.54-400x300.jpg 2 http://www.weiluen.com/blog/
+/Logos/huang.png 4 http://weiluen.com/indexboot.html
+/blog/assets/2012-09-09%252008.55.00-800x600.jpg 1 -
+/blog/assets/2012-09-09%252008.55.00-170x100.jpg 13 http://www.weiluen.com/blog/wp-admin/media-upload.php
+/blog/assets/2012-09-02%252014.35.15-170x100.jpg 13 http://www.weiluen.com/blog/wp-admin/media-upload.php
+/blog/assets/js/plugins.js 129 -
+/blog/8/ 2 http://weiluen.com/
+/indexboot,html 1 -
+/blog/assets/js/vendor/modernizr-2.6.2.min.js 133 -
+/blog/plugins/nextgen-gallery/shutter/shutter-reloaded.js 1 -
+/blog/plugins/nextgen-gallery/shutter/shutter-reloaded.css 2 -
+/Logos/logo6.png 1 http://www.weiluen.com/indexboot.html
+/blog/wp-blog-header.php 1 -
+/blog/assets/2012-09-18%252012.16.54.jpg 1 -
+/blog/assets/2012-09-09%252009.09.49-300x400.jpg 1 -
+/blog/assets/2012-09-18%252012.16.54-170x100.jpg 14 http://www.weiluen.com/blog/wp-admin/media-upload.php
+END_SIDER_404

@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Error 404</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:700,400,300" rel="stylesheet" type="text/css" />
+<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap-combined.min.css" rel="stylesheet" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" ></script>
+<script type="text/javascript" src= "http://maps.google.com/maps/api/js?AIzaSyCE1f3YBPCalGD0ae4hZ-jJyxuiUxvKonc&sensor=false"></script>
+<script>
+function initialize() {
+  var mapOptions = {
+    zoom: 14,
+    center: new google.maps.LatLng(13.693777,100.543439),
+    disableDefaultUI: true,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  var map = new google.maps.Map(document.getElementById("map_canvas"),
+       mapOptions);
+	var point = new google.maps.LatLng(13.693777,100.543439);
+	var myMarker = new google.maps.Marker({
+  		position:point,
+  		map:map,
+  		title:"Khao San Rd.",
+	});
+}
+</script>
+</head>
+<body style="font-family: 'Open Sans', Helvetica Neue, Helvetica, Sans-serif; font-size:18px;" onload="initialize()">
+<div class="container">
+<div class="hero-unit" style="margin-top:200px;">
+<h1 style="text-align:center;">Error 404</h1>
+<h3>Where you go? Khao San Road?</h3>
+<p>You've arrived here by error. Let me help you get to where you need to go.</p> 
+<div id="map_canvas" style="width:100%; height:280px;"></div><br>
+<a href="http://www.weiluen.com/" class="btn btn-large btn-primary pull-right">Go Back To Site</a>
+</div>
+</div>
+</body>
+</html>
+

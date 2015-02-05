@@ -1,0 +1,205 @@
+<title>James W Huang</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:700,400,300" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://wwww.weiluen.com/mobile/themes/weiluen.min.css" />
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile.structure-1.2.0.min.css" />
+<link rel="icon" href="http://www.weiluen.com/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.weiluen.com/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://wwww.weiluen.com/icons/apple/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://wwww.weiluen.com/icons/apple/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://wwww.weiluen.com/icons/apple/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://wwww.weiluen.com/icons/apple/apple-touch-icon-144x144.png">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+<script type="text/javascript" src="http://cdn.jsdelivr.net/klass/1.2.2/klass.min.js"></script>
+<script type="text/javascript" src="http://cdn.jsdelivr.net/photoswipe/3.0.5/code.photoswipe.jquery-3.0.5.min.js"></script>
+<script>
+$(document).ready(function(){
+  var myPhotoSwipe = $(".pophotos a").has("img").photoSwipe({ imageScaleMethod: 'fitNoUpscale' });
+});
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35869547-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body  itemscope itemtype="http://schema.org/Person">
+ <div data-role="page" id="home">
+  <div data-role="header" data-position="fixed" class="ui-state-persist"> 
+    <img style="position:relative; left:50%; margin-left:-62.5px; padding: 3px;" src="http://www.weiluen.com/logos/logo6.png" /> <a style="float: right;" href="#desktop" data-role="button" data-mini="true" class="ui-btn-right desktop"><img src="http://www.weiluen.com/mobile/desktop.png" height="45px" width="45px" style="margin-top:-9px; margin-bottom:-17px; margin-right:-9px; margin-left:-9px;"/></a> </div>
+  <div data-role="content" id="home">
+    <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" data-collapsed="false" >
+      <h2>ABOUT ME</h2>
+      <img id="me" style="position:relative; left:50%; margin-left:-140px;" itemprop="image" src="http://www.weiluen.com/img/me.jpg" alt="">
+      <p> My name is <strong>James <span itemprop="additionalName">Weiluen</span> Huang</strong>. I graduated from the <span itemprop="alumniOf">University of Texas</span> in 2011. Currently I'm a <span itemprop="jobTitle">Peace Corps volunteer in Thailand</span>. I began my service in January of 2012. I can speak English, Chinese, and Thai. If you're interested, you can read about my life here. </p>
+    </div>
+    <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right">
+      <h2>WHAT I LIKE</h2>
+      <p>I like Tom Yum Gung, Dim Sum on Sunday mornings, Schweppes tonic water, Pepsi Max, Coke Zero, old grainy movies, Thai commercials, funny transliterations, classical music, dubstep, 2pac, Biggie Smalls, FM, chess, violins, obscure theories, Thai fashion, Lady Bird Lake, kayaks, Veggie Heaven and the rest of the Drag, food carts, sunsets, golf at Butler Pitch & Putt, crawfish boils, Zatarain's Red Beans and Rice, Anthony Bourdain, Jin, cheese, bizarre foods, obscure philosophers, movies at the movie theatre, little cats, museums, genetics research, NPR, A Way with Words, floating lanterns, powdery beaches, knife shaved noodles, rhinoceros beetles, Sichuan food, giant pandas, patterns, Pancho's, plants and alliteration.</p>
+    </div>
+    <div data-role="collapsible" data-theme="a" data-content-theme="a" style="font-family: Open Sans, Helvetica, Arial, sans-serif;" data-iconpos="right"> 
+      <h2>THE DISCLAIMER</h2>
+      <p> Because I have to put this somewhere . . . .</p>
+      <blockquote style="font-family: Helvetica, Arial, sans-serif; font-size:14px;"><em> "The opinions, information, and photos found here are solely my own and are in no way affiliated with the Peace Corps or the government of the United States."</em><small><cite title="Me" itemprop="name">James Huang</cite></small></blockquote>
+    </div>
+    <div data-role="collapsible" data-theme="a" data-content-theme="a" style="font-family: Open Sans, Helvetica, Arial, sans-serif;" data-iconpos="right">
+      <h2>CONTACT ME</h2>
+      <p style="font-size:14px;"><strong itemprop="name">James Huang</strong><br>
+        james.huang@weiluen.com<br>
+        jameshuang1789@gmail.com<br>
+        090.897.1776 </p>
+      <p style="font-size:16px;"> <strong>โรงเรียนทัพพระยาพิทยา</strong><br />
+        99หมู่ 8 ต. โคกสูง<br />
+        อ. โคกสูง<br />
+        สระแก้ว 27120 </p>
+         <img src="https://maps.googleapis.com/maps/api/staticmap?center=Khok Sung, Sa Kaeo&amp;zoom=7&amp;size=300x150&amp;markers=Khok Sung, Sa Kaeo|&amp;sensor=false" width="300"  height="150" />
+    </div>
+  </div> 
+  <div data-role="footer" data-id="nav" data-position="fixed" class="ui-state-persist">
+    <div data-role="navbar">
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#photos">Photos</a></li>
+        <li><a href="#blog" data-prefetch>Blog</a></li>
+      </ul>
+    </div> 
+  </div> 
+</div>
+<div data-role="page" id="blog">
+  <div data-role="header" data-position="fixed" class="ui-state-persist">
+    <img style="position:relative; left:50%; margin-left:-62.5px; padding: 3px;" src="http://www.weiluen.com/logos/logo6.png" /> <a style="float: right;" href="#desktop" data-role="button" data-mini="true" class="ui-btn-right desktop"><img src="http://www.weiluen.com/mobile/desktop.png" height="45px" width="45px" style="margin-top:-9px; margin-bottom:-17px; margin-right:-9px; margin-left:-9px;"/></a> </div>
+  <div data-role="content" id="posts" class="pophotos">
+    <h1 style="font-family: Open Sans, Helvetica, Arial, sans-serif; text-align:center;">LATEST POSTS</h1>
+          <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" >
+      <h2 style="text-align:left; font-style:normal;">May 27, 2013</h2>
+      <p class="postphotos">
+        <h2 style="text-align:center;">Persistence, Persistence</h2>
+		<div style="margin-top:-15px;"><p>I applaud your persistence, B &amp; C. You know how to kick a dude who&#8217;s down. Seriously, I just got a new wallet TODAY. I&#8217;ve lived in some pretty sketchy neighborhoods, but I&#8217;ve never really experienced anything quite like this. Yall are definitely quite impressive. </p>
+<p>And on a more serious note: <br />It&#8217;s become very hard at this point not to project the actions of a few individuals onto an entire community. This has made it increasingly difficult for me to continue trying to do something positive for my community. I understand that, when I think about this rationally, it&#8217;s unreasonable and even prejudicial to have those feelings. But when everything in a country is so foreign, it&#8217;s very easy to start jumping to unconstructive generalizations. I&#8217;m going to try harder to be a good person, so I hope you will too. </p>
+</div>
+      </p>
+    </div>
+        <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" >
+      <h2 style="text-align:left; font-style:normal;">May 25, 2013</h2>
+      <p class="postphotos">
+        <h2 style="text-align:center;">PSA: Turn Down Your Music</h2>
+		<div style="margin-top:-15px;"><p>Yes, I&#8217;m sorry, but I don&#8217;t want to mince words. Thailand, I&#8217;m going to try and be honest with you. Blaring Gangnam style at 10:35 pm outside of my house for hours on end is not winning you any cool points. </p>
+<p>Sincerely,<br />
+The Cool Police</p>
+</div>
+      </p>
+    </div>
+        <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" >
+      <h2 style="text-align:left; font-style:normal;">May 22, 2013</h2>
+      <p class="postphotos">
+        <h2 style="text-align:center;">Kleiman&#8217;s Wisdom</h2>
+		<div style="margin-top:-15px;"><blockquote><p><em>&#8220;Life sucks, then you die.&#8221;</em><small>- Mrs. K</small></p></blockquote>
+<p>Today was rough. I hope tomorrow will be better.</p>
+<p><strong>Update:</strong> Just got bit by a dog. =(</p>
+<p><a href="http://www.weiluen.com/desktop/blog/assets/IMG_20130528_063300.jpg"><img src="http://www.weiluen.com/desktop/blog/assets/IMG_20130528_063300-150x150.jpg" alt="Dog Bitey" width="150" height="150" class="aligncenter size-thumbnail wp-image-290" /></a></p>
+</div>
+      </p>
+    </div>
+        <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" >
+      <h2 style="text-align:left; font-style:normal;">May 8, 2013</h2>
+      <p class="postphotos">
+        <h2 style="text-align:center;">Dear Bonnie &#038; Clyde</h2>
+		<div style="margin-top:-15px;"><p>So, I haven&#8217;t penned one of these in a while. But the semiprivate nature of a blog seems to be a generally good medium for venting. My house was broken into the other day. It&#8217;s been getting broken into with some regularity. I think the most unsettling part of the whole ordeal is probably this: I&#8217;m increasingly convinced it&#8217;s one of my neighbors. And while I always hear  that it&#8217;s our &#8220;neighbors&#8221; that are robbing me, I remain unconvinced that my community is large enough to warrant the sort of scrutiny placed on my Cambodian neighbors. It seems that when I leave the house, when I&#8217;ve gone for a quick bite, someone&#8217;s compelled to pry open the door and come into my house. And it even seems that while I sleep, sometimes a daring dog prances in and goes off with some of my belongings—of course the dog is, naturally, only attracted to crisp portraits of the King and the delicious taste of leather . . . wallets. But doggy, don&#8217;t you know that the bowl of Kibble and <em>Bits</em> was only valuable because I was RMAing (Return Merchandise Authorization) it? Won&#8217;t it be suspicious to have a broken cellphone that&#8217;s impossible to purchase in Thailand and only really valuable to me? </p>
+<p>Look, my moment of vitriol is over. I understand. I understand that there are complexities at work here. But it disheartens me that in my small, small village, where everyone knows that I&#8217;m The Foreign Volunteer—who makes no money and teaches English at a local school, where everybody knows everybody, there is an individual(s) who finds me a choice target. It disheartens me that I&#8217;ve been here for more than a year, and you still hold contempt for me in your heart.</p>
+<p>I don&#8217;t make much, maybe less than you, so why would you think that I wouldn&#8217;t have been willing to share? I won&#8217;t pretend that I don&#8217;t also have some selfish incentives to be here, but I&#8217;m also here because of you.   </p>
+<p>And now I&#8217;m paranoid; I&#8217;m suspicious; I&#8217;m depressed.</p>
+<p>Whatever happened to Karmic wheels and The Land of Smiles?</p>
+</div>
+      </p>
+    </div>
+        <div data-role="collapsible" data-theme="a" data-content-theme="a" data-iconpos="right" >
+      <h2 style="text-align:left; font-style:normal;">February 1, 2013</h2>
+      <p class="postphotos">
+        <h2 style="text-align:center;">Ethiopian, Found?</h2>
+		<div style="margin-top:-15px;"><blockquote><p><em>&#8220;Too much and for too long, we seemed to have surrendered personal excellence and community values in the mere accumulation of material things.  Our Gross National Product, now, is over $800 billion dollars a year, but that Gross National Product &#8211; if we judge the United States of America by that &#8211; that Gross National Product counts air pollution and cigarette advertising, and ambulances to clear our highways of carnage. It counts special locks for our doors and the jails for the people who break them.  It counts the destruction of the redwood and the loss of our natural wonder in chaotic sprawl. It counts napalm and counts nuclear warheads and armored cars for the police to fight the riots in our cities.  It counts Whitman&#8217;s rifle and Speck&#8217;s knife, and the television programs which glorify violence in order to sell toys to our children. Yet the gross national product does not allow for the health of our children, the quality of their education or the joy of their play.  It does not include the beauty of our poetry or the strength of our marriages, the intelligence of our public debate or the integrity of our public officials. It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country, it measures everything in short, except that which makes life worthwhile. And it can tell us everything about America except why we are proud that we are Americans. If this is true here at home, so it is true elsewhere in world.&#8221;<br />
+</em></p>
+<p><small>Bobby Kennedy</small></p></blockquote>
+<p><a href="http://www.weiluen.com/desktop/blog/assets/wpid-wp-1359721285767.jpg" style="float: left;"><img src="http://www.weiluen.com/desktop/blog/assets/wpid-wp-1359721285767-150x150.jpg" alt="wpid-wp-1359721285767.jpg" width="150" height="150" class="aligncenter size-thumbnail wp-image-208" /></a></p>
+<p><a href="http://www.weiluen.com/desktop/blog/assets/wpid-IMG_20130201_190650-1.jpg" style="margin-left: 7px;"><img src="http://www.weiluen.com/desktop/blog/assets/wpid-IMG_20130201_190650-1-e1359959070969-150x150.jpg" alt="wpid-IMG_20130201_190650-1.jpg" width="150" height="150" class="aligncenter size-thumbnail wp-image-209" /></a></p>
+<p>That&#8217;s all son. . . </p>
+</div>
+      </p>
+    </div>
+      </div> 
+  <div data-role="footer" data-id="nav" data-position="fixed" class="ui-state-persist">
+      <div data-role="navbar">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#photos">Photos</a></li>
+          <li><a href="#blog" data-prefetch>Blog</a></li>
+        </ul>
+      </div>
+   </div>
+</div>
+
+<div data-role="page" id="photos">
+	  <div data-role="header" data-position="fixed" class="ui-state-persist">
+   		 <img style="position:relative; left:50%; margin-left:-62.5px; padding: 3px;" src="http://www.weiluen.com/logos/logo6.png" /> 			<a style="float: right;" href="#desktop" data-role="button" data-mini="true" class="ui-btn-right desktop"><img src="http://www.weiluen.com/mobile/desktop.png" height="45px" width="45px" style="margin-top:-9px; margin-bottom:-17px; margin-right:-9px; margin-left:-9px;"/></a> 
+       </div>
+       <div data-role="content">       		
+       		<ul id="Gallery"class="pophotos">
+               <div class="ui-grid-a">
+        					<div class="ui-block-a">
+                         		<li><a href="images/full/01.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/01.jpg" alt="" /></a></li>
+                        		<li><a href="images/full/02.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/02.jpg" alt="" /></a></li>
+                        		<li><a href="images/full/03.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/03.jpg" alt="" /></a></li>
+                						<li><a href="images/full/04.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/04.jpg" alt="" /></a></li>
+                						<li><a href="images/full/05.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/05.jpg" alt="" /></a></li>
+                						<li><a href="images/full/06.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/06.jpg" alt="" /></a></li>
+                            </div>
+                    <div class="ui-block-b" style="list-style: none;">
+                            <li><a href="images/full/07.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/07.jpg" alt="" /></a></li>
+                            <li><a href="images/full/08.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/08.jpg" alt="" /></a></li>
+                            <li><a href="images/full/10.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/10.jpg" alt="" /></a></li>
+                            <li><a href="images/full/11.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/11.jpg" alt="" /></a></li>
+                            <li><a href="images/full/12.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/12.jpg" alt="" /></a></li>
+                            <li><a href="images/full/13.jpg" rel="external"><img src="http://www.weiluen.com/mobile/images/thumb/13.jpg" alt="" /></a></li>
+                   </div>    
+                </div>
+          </ul>
+       </div>
+       <div data-role="footer" data-id="nav" data-position="fixed" class="ui-state-persist">
+          <div data-role="navbar">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#photos">Photos</a></li>
+                <li><a href="#blog" data-prefetch>Blog</a></li>
+            </ul>
+          </div>
+      </div>
+</div>
+
+<div data-role="page" id="desktop">
+    <div data-role="header" data-position="fixed" class="ui-state-persist">
+       <img style="position:relative; left:50%; margin-left:-62.5px; padding: 3px;" src="http://www.weiluen.com/logos/logo6.png" />
+       <a style="float: right;" href="#desktop" data-role="button" data-mini="true" class="ui-btn-right desktop"><img src="http://www.weiluen.com/mobile/desktop.png" height="45px" width="45px" style="margin-top:-9px; margin-bottom:-17px; margin-right:-9px; margin-left:-9px;"/></a> 
+    </div>
+       <div data-role="content">
+          <h2>DESKTOP</h2>
+          <p>Hi! My name is JAMESBOT. I have determined that you are surfing this website from a mobile platform. If you are on a mobile platform, I believe that the mobile version is the best way to view this website. If you don't agree, feel free to switch by hitting the continue button.</p>
+        <a data-role="button" data-inline="true" data-theme="a" href="http://d.weiluen.com" data-icon="arrow-r" data-iconpos="right" rel="external">Continue to Desktop</a>
+       </div>
+       <div data-role="footer" data-id="nav" data-position="fixed" class="ui-state-persist">
+          <div data-role="navbar">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#photos">Photos</a></li>
+                <li><a href="#blog" data-prefetch>Blog</a></li>
+            </ul>
+          </div>
+      </div>
+</div>
+</body>
+</html>

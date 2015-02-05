@@ -1,0 +1,812 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201302 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2553                
+POS_VISITOR 13864               
+POS_DAY 24576               
+POS_DOMAIN 3470                
+POS_LOGIN 3704                
+POS_ROBOT 3859                
+POS_WORMS 4659                
+POS_EMAILSENDER 4790                
+POS_EMAILRECEIVER 4933                
+POS_SESSION 25373               
+POS_SIDER 25584               
+POS_FILETYPES 5068                
+POS_OS 5282                
+POS_BROWSER 5534                
+POS_SCREENSIZE 6155                
+POS_UNKNOWNREFERER 6229                
+POS_UNKNOWNREFERERBROWSER 7114                
+POS_ORIGIN 7552                
+POS_SEREFERRALS 7702                
+POS_PAGEREFS 7882                
+POS_SEARCHWORDS 9424                
+POS_KEYWORDS 9636                
+POS_MISC 2216                
+POS_ERRORS 9745                
+POS_CLUSTER 3560                
+POS_SIDER_404 9896                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130301000651 13147 3287876 38553490482
+FirstTime 20130201042818
+LastTime 20130228233923
+LastUpdate 20130301151436 13147 13107 39 0 0
+TotalVisits 577                 
+TotalUnique 194                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 299                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 13 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 128 602 5778082 69 237 3020174
+1 163 792 19498441 82 331 6693791
+2 143 934 7127603 70 291 10715272
+3 53 315 1770343 51 129 8270607
+4 88 330 3762516 77 221 8053618
+5 78 273 4369299 61 172 7634410
+6 60 412 2991523 63 174 8651715
+7 642 1078 7908862 87 211 8937059
+8 51 267 2607731 73 196 8523206
+9 40 241 1995860 63 133 8962463
+10 94 521 18153154 86 208 6916271
+11 65 92 1002222 71 103 3121138
+12 517 602 6021162 344 467 32926370
+13 34 70 1450602 51 70 5370190
+14 51 133 2352748 60 124 2311317
+15 56 129 1631337 79 137 6428932
+16 72 347 3058738 69 105 7416391
+17 103 379 6406194 69 149 2810763
+18 46 200 3343087 53 102 4290366
+19 41 59 1305382 137 180 13430986
+20 31 115 2292813 43 73 3044095
+21 69 180 3053957 70 117 5331964
+22 22 66 1100549 81 103 3568150
+23 77 110 1882223 78 211 4212215
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2724 8247 110864428
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+googlebot 397 41018600 20130228195303 93
+yandex 360 62059033 20130228204005 79
+wordpress 297 265691 20130228233224 0
+msnbot\-media 204 68259798 20130226015053 44
+feedfetcher\-google 164 57236 20130228234157 0
+spider 159 939346 20130228124044 2
+bot[+:,\.\;\/\\-] 129 550457 20130228134828 55
+robot 122 890800 20130228233208 12
+baiduspider 50 746147 20130228220602 0
+unknown 43 90731 20130228201502 43
+blogpulse 2 18147 20130201075514 1
+no_user_agent 13 2443 20130220195547 0
+python 4 58959 20130213114746 0
+mj12bot 7 3065 20130227223759 4
+msiecrawler 8 24504 20130201075409 0
+netcraft 1 349 20130206031238 0
+crawl 6 6639 20130203175852 2
+nutch 4 6319 20130222183005 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 1293 20475648 0 0
+css 883 1777672 0 0
+png 947 2314715 0 0
+html 1321 6940067 0 0
+js 593 785703 0 0
+jpg 3055 77351828 0 0
+Unknown 110 1069283 0 0
+gif 45 149512 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 19
+winlong 98
+winxp 193
+win2000 30
+winvista 5567
+linuxfedora 1
+winunknown 1
+win95 2
+win2003 21
+wince 3
+linuxdebian 7
+unix 3
+winnt 93
+linuxubuntu 16
+linux 152
+bsdfreebsd 5
+winme 5
+macosx 447
+Unknown 430
+win2008 1173
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 43
+msie6.0 37
+webcapture 2
+firefox5.0 85
+firefox15.0 2
+firefox4.0.1 1
+firefox3.6 1
+chrome 5893
+firefox10.0 1
+firefox3.0.1 1
+firefox3.6.6 199
+firefox18.0 1
+curl 2
+lynx 2
+firefox3.5.3 2
+msie3.02 3
+msie8.0 98
+firefox13.0.1 1
+firefox0.10.1 2
+firefox6.0.2 3
+msie7.0 49
+firefox16.0 2
+firefox9.0.1 3
+msie9.0 575
+Unknown 228
+firefox11.0 4
+netscape 1
+netscape4.61 3
+firefox3.5.6 2
+firefox17.0 9
+opera 346
+netscape4.72 68
+firefox7.0.1 1
+msie5.5 16
+netscape0.6 4
+mozilla 193
+firefox14.0.1 4
+msie10.0 59
+firefox5.0.1 8
+firefox6.0 23
+firefox19.0 23
+msie1.0 1
+firefox15.0.1 2
+safari 287
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla 20130225142945
+Mozilla/3.0_(compatible;_WebCapture_2.0;_Auto;_Windows) 20130228114420
+Disqus/1.0 20130225104849
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130204022701
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online) 20130224085431
+Mozilla/0.6_Beta_(Windows) 20130228141143
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130212203531
+Zemanta_Aggregator/0.7__http://www.zemanta.com 20130228221811
+Google-Site-Verification/1.0 20130209110840
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130209054224
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20130225190611
+wp-android/2.2.7 20130201073033
+Mozilla/5.0_(compatible;_news_bot_/2.1) 20130226183954
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130212203531
+Zemanta_Aggregator/0.7__http://www.zemanta.com 20130228221811
+Google-Site-Verification/1.0 20130209110840
+Disqus/1.0 20130225104849
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130209054224
+wp-android/2.2.7 20130201073033
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 906 910
+From1 43 68
+From2 395 456
+From3 108 283
+From4 1272 6530
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 387 448
+yandex 6 6
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 49
+http://diaryofafarang.blogspot.com 4 4
+http://worldtatoo.ru 3 3
+http://moscow-clining.ru 3 3
+http://pro-recipe.ru 3 3
+http://www.arch-skin.ru 3 3
+http://www.siteslikesearch.com 3 3
+http://krichu-gromko.ru 3 3
+http://terabita.by 3 3
+http://z-tube.org 3 3
+http://krasnoxolm.ru 3 3
+http://splavmed.ru 1 1
+http://popolnit.net 2 2
+http://m.facebook.com/l.php 1 1
+http://setisoft.com 1 1
+http://videoerochat.ru 2 2
+http://www.testagent.ru 1 1
+http://ruprava.info 1 1
+http://barsavto.ru 2 2
+http://pro-detok.com/home/4-blog/92-rvota.html 2 2
+http://igrikazinoonlain.ru 2 2
+http://teenphone.ru 2 2
+http://www.ooo-asgard.ru 2 2
+http://elita-lady.ru 2 2
+http://viktoria-center.ru 2 2
+http://sameid.net/domain/weiluen.com/ 1 1
+http://wordpress.com 1 1
+http://mylandsgame.info 3 3
+http://3gp-xxx.net 2 2
+http://www.tostead.ru 2 2
+http://www.vseshmotki.com 2 2
+http://altairplus.ru 3 3
+http://www.r-studio.kiev.ua 2 2
+http://android-plus.ru 3 3
+http://173.245.56.11/desktop/blog/4/ 0 7
+http://5forex.ru 3 3
+http://top-diets.ru 2 2
+http://moregirls.org 3 3
+http://footballway.info 2 2
+http://lalatoys.ru 3 3
+http://mir-betting.ru 3 3
+http://linoleumshop.ru 3 3
+http://body-security.ru 2 2
+http://diaryofafarang.blogspot.com/2013/01/happy-birthday-daddy.html 1 1
+http://t-android.ru 3 3
+http://173.245.56.11 0 168
+http://adultblog.su 3 3
+http://creditui.ru 2 2
+http://intimhot.ru 3 3
+http://kino-2013.ru 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+the+beauty+of+our+poetry 4
+the+beauty+of+our 2
+weiluen+lu 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+the 6
+of 6
+our 6
+beauty 6
+poetry 4
+weiluen 2
+lu 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 539 222261
+206 1 368
+400 1 599
+500 1 605
+301 156 86737
+404 1576 5332629
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 41
+/js/gen_validator31.js 5 http://173.245.56.11/
+/logos/blogo.png 4 http://173.245.56.11/
+/desktop/blog/assets/js/vendor/jquery-1.8.2.min.js 2 http://173.245.56.11/desktop/blog/first-time/
+/background768.jpg 4 http://173.245.56.11/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/atd.core.js 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/ethiopian-found/ 1 http://www.google.com/url
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/safecss-ace.js 1 http://www.weiluen.com/desktop/blog/wp-admin/themes.php
+/blog/349 2 -
+/blog/37 1 -
+/desktop/blog/wp-includes/js/comment-reply.min.js 25 -
+/desktop/blog/hello-world/ 1 -
+/desktop/blog/assets/image007-225x300.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/blog/85 2 -
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/atd.css 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/ajax/libs/twitter-bootstrap/2.2.2/bootstrap.min.js 5 http://173.245.56.11/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/jquery.atd.js 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/assets/css/custom.css 340 http://www.weiluen.com/desktop/blog/
+/desktop/blog/desktop/blog/plugins/jetpack/modules/widgets/widgets.css 328 http://d.weiluen.com/desktop/blog/happy-holidays/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/_inc/jetpack-retina.css 272 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/assets/2012-12-05-22.24.46-300x225.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/install_atd_l10n.js 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/blog/303 1 -
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/_inc/spin.js 253 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/img/glyphicons-halflings1.png 5 http://173.245.56.11/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/_inc/jquery.spin.js 253 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/assets/2012-12-05-22.24.33-300x225.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/desktop/blog/assets/wpid-wp-1358208000000-150x150.jpg 1 http://m.weiluen.com/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/atd-autoproofread.js 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/assets/2012-11-10-22.54.44-400x300-300x225.jpg 3 http://173.245.56.11/
+/desktop/blog/assets/2012-11-26-20.37.00-300x225.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/desktop/blog/assets/2012-11-24-16.08.23-300x225.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/after-the-deadline/atd-nonvis-editor-plugin.js 5 http://www.weiluen.com/desktop/blog/wp-admin/post.php
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/ace/mode-css.js 1 http://www.weiluen.com/desktop/blog/wp-admin/themes.php
+/img/icon.png 4 http://173.245.56.11/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/wpgroho.js 9 http://www.weiluen.com/desktop/blog/wp-admin/
+/img/me.jpg 5 http://173.245.56.11/
+/huangweilun.png 4 http://173.245.56.11/
+/desktop/blog/assets/2012-11-26-20.37.05-300x225.jpg 1 http://173.245.56.11/desktop/blog/first-time/
+/desktop/blog/assets/2012-12-26-17.56.40-300x225.jpg 5 http://173.245.56.11/
+/desktop/blog/desktop/blog/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/ace/ace.js 1 http://www.weiluen.com/desktop/blog/wp-admin/themes.php
+/desktop/blog/custom.cdf 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 299
+173.245.53.121 543 543 1663209 20130201075759
+125.27.129.36 275 1644 12266377 20130209031511
+173.245.51.207 142 142 194824 20130224174325
+125.27.131.228 137 976 7824932 20130209093625
+108.162.225.141 84 121 688334 20130209194909
+125.27.129.245 75 454 2731939 20130209052545
+103.22.201.89 66 70 1437389 20130204022623
+108.162.225.67 65 71 1720718 20130224184710
+173.245.55.65 64 64 382612 20130218124256
+108.162.216.50 62 66 390690 20130223123420
+108.162.215.72 2 2 4451 20130224013159
+108.162.231.56 0 8 71824 
+108.162.216.73 0 2 3312 
+173.245.48.147 0 1 12972 
+108.162.231.74 0 6 66802 
+103.22.201.83 38 53 691185 20130223104704
+173.245.50.153 0 7 105431 
+173.245.51.218 1 23 296200 20130222074045
+125.78.241.3 1 1 4102 20130226122849
+141.101.98.90 1 1 349 20130203153937
+141.101.84.243 1 1 4102 20130209214042
+141.101.98.101 12 12 66240 20130224104017
+108.162.221.67 0 7 69662 
+103.22.201.90 0 3 151739 
+103.22.201.97 3 77 1138657 20130211050512
+94.153.65.154 2 2 27918 20130227162728
+108.162.225.146 0 22 591853 
+108.162.212.57 1 1 4102 20130216000014
+108.162.226.160 1 1 5279 20130225150011
+108.162.215.59 1 4 46485 20130203214850
+108.162.222.50 0 1 888 
+108.162.221.152 0 7 144345 
+103.22.200.84 1 1 5279 20130225161425
+173.245.48.146 0 5 334437 
+108.162.225.152 0 4 235801 
+193.106.136.32 5 5 69795 20130228153832
+173.245.48.140 0 13 368686 
+108.162.225.158 1 71 1294303 20130213023958
+108.162.215.51 0 6 196067 
+108.162.231.79 0 10 66852 
+89.108.102.171 2 2 27918 20130228001905
+173.245.62.141 0 3 23315 
+108.162.225.47 0 42 521212 
+199.217.115.189 1 1 60 20130228022511
+199.27.130.147 0 1 67340 
+108.162.212.76 1 1 4102 20130203223812
+108.162.226.73 1 1 349 20130228233920
+114.24.70.64 3 23 767934 20130228035914
+108.162.222.142 3 3 10406 20130206054543
+108.162.231.52 1 2 27369 20130203214859
+108.162.221.51 0 1 2339 
+199.27.128.231 1 5 29028 20130203151531
+173.245.48.160 1 1 60 20130203214851
+173.245.50.154 0 1 23267 
+108.162.222.59 0 2 1252 
+108.162.222.60 0 1 2600 
+103.22.201.189 0 51 1038679 
+141.101.88.128 1 1 5520 20130224171634
+108.162.225.65 0 10 78316 
+173.245.50.73 1 1 5273 20130204024214
+108.162.231.53 1 3 34252 20130210225241
+103.22.201.184 13 17 103144 20130224183343
+173.245.56.134 0 1 946 
+192.231.40.3 2 22 767825 20130226102628
+173.245.50.60 3 15 116108 20130208015052
+199.27.128.211 0 8 129603 
+75.65.88.62 6 40 832507 20130209020307
+173.245.56.135 2 2 32238 20130224085403
+108.162.222.147 0 1 7233 
+108.162.221.58 1 6 84033 20130221201444
+103.22.200.172 1 1 15382 20130202020634
+31.28.162.50 1 1 60 20130225010211
+108.162.222.140 0 1 565804 
+108.162.221.61 0 23 490311 
+108.162.231.78 1 3 46883 20130205121748
+173.245.50.146 0 23 584085 
+108.162.225.160 51 72 1844496 20130212013436
+173.57.100.134 2 22 767561 20130209064235
+103.22.201.170 55 76 1282093 20130211180718
+103.22.201.84 26 40 328013 20130201102004
+199.27.128.61 0 27 590994 
+125.27.130.146 11 119 1527866 20130225060733
+108.162.226.51 1 1 349 20130225142945
+108.162.221.65 0 2 29735 
+125.27.133.148 36 265 4294299 20130224185322
+108.162.216.58 0 5 493514 
+173.245.62.148 1 1 4102 20130218132355
+173.245.55.142 8 8 111408 20130223123335
+117.26.79.61 1 1 53685 20130228175429
+103.22.201.11 1 1 349 20130208230212
+108.162.231.48 0 7 144345 
+37.200.65.208 1 1 325 20130228031855
+108.162.215.154 0 2 2910 
+103.22.200.183 1 1 6967 20130209110840
+108.162.221.154 0 5 59327 
+108.162.221.66 1 3 26930 20130223104951
+173.245.55.72 2 2 6468 20130216175255
+171.99.182.222 3 23 718180 20130227051758
+199.27.128.229 8 11 22419 20130201055035
+108.162.225.59 0 14 210676 
+92.249.127.111 2 2 27918 20130226183954
+108.162.215.141 0 15 299171 
+178.137.5.24 4 4 55836 20130226151032
+108.162.231.51 0 4 55323 
+108.162.221.147 0 29 945142 
+108.162.216.148 0 1 1936 
+199.27.130.146 1 1 4102 20130216115749
+173.245.48.153 2 2 8204 20130223060129
+108.162.222.49 0 1 6563 
+173.245.55.147 0 4 14140 
+108.162.225.147 0 15 233963 
+173.245.48.67 1 1 4102 20130216121548
+173.245.50.66 1 4 33751 20130223104949
+108.162.212.60 1 1 4102 20130203214854
+69.175.20.162 59 71 1355639 20130228124043
+173.245.48.148 0 1 64837 
+199.27.128.232 0 2 7064 
+108.162.231.55 0 3 33401 
+173.245.62.60 4 5 8659 20130228233923
+103.22.201.91 0 10 241472 
+103.22.201.183 0 5 124438 
+108.162.212.50 1 1 4102 20130216000110
+173.245.53.158 1 1 5601 20130220175521
+173.245.62.146 2 3 20108 20130228094601
+108.162.215.147 2 4 63318 20130221205959
+108.162.225.60 0 11 1649193 
+199.27.128.85 0 1 6563 
+108.162.231.77 12 26 371766 20130224150805
+108.162.216.65 0 8 79288 
+173.245.50.140 1 1 522 20130202120956
+109.120.157.179 1 1 13959 20130225190611
+94.153.64.117 3 3 41877 20130228150830
+108.162.215.148 2 2 1894 20130221210006
+199.27.128.210 0 11 371279 
+199.27.128.207 0 3 18291 
+108.162.216.60 61 61 392866 20130216123951
+103.22.201.85 3 25 3767407 20130218220209
+173.245.51.201 0 3 31745 
+108.162.215.61 0 3 105045 
+108.162.226.67 1 1 357 20130207111426
+108.162.210.167 1 1 4102 20130223004624
+173.245.55.141 0 4 14140 
+103.22.201.178 1 22 87067 20130204001758
+108.162.225.71 2 43 380573 20130213023851
+141.101.85.121 1 1 4102 20130216120753
+141.101.99.225 1 1 349 20130213163021
+173.245.50.147 0 13 200488 
+103.22.201.172 8 35 213214 20130222051746
+77.94.136.197 52 52 120900 20130228221811
+199.27.128.60 0 8 129554 
+108.162.231.63 6 6 940 20130217033711
+108.162.215.49 0 8 70892 
+173.245.48.72 2 3 29619 20130224150358
+5.248.83.93 10 10 139590 20130228005204
+108.162.216.71 2 4 126945 20130219124128
+173.245.56.133 3 3 20833 20130224085403
+108.162.225.49 1 35 260485 20130223104549
+108.162.225.148 0 6 193417 
+108.162.221.48 0 1 1883 
+173.245.48.154 2 2 1894 20130209170727
+103.22.201.79 0 64 1228294 
+173.245.53.107 2 2 2744 20130204235523
+173.245.51.196 2 13 252462 20130220125202
+173.245.62.61 3 3 4800 20130216000248
+173.245.51.223 0 6 63490 
+199.27.128.63 0 21 912230 
+108.162.226.72 2 2 11085 20130228094544
+108.162.215.158 1 1 4102 20130204073504
+108.162.216.61 0 4 7786 
+103.22.201.190 6 20 53389 20130217075237
+108.162.215.140 1 4 103393 20130201151740
+199.27.128.220 1 1 4102 20130218184338
+108.162.221.141 0 1 8873 
+108.162.222.58 3 3 37248 20130215164829
+222.187.222.71 4 4 16408 20130228052404
+103.22.201.182 1 3 89898 20130204020913
+173.245.50.67 0 3 31745 
+108.162.225.73 33 66 988945 20130217075251
+173.245.50.65 0 3 22615 
+173.245.53.120 3 3 16560 20130224032702
+173.245.50.148 0 3 194511 
+108.162.225.51 0 39 1031781 
+108.162.231.85 12 12 66240 20130224172312
+108.162.216.46 0 5 48517 
+108.162.225.140 59 114 2614421 20130210001758
+199.27.128.84 4 7 82476 20130205053727
+108.162.219.73 1 1 4102 20130209214201
+173.245.56.139 1 1 5567 20130208042243
+173.245.55.66 1 1 6967 20130210203540
+108.162.221.146 16 21 222776 20130223150700
+108.162.215.65 2 2 8204 20130206084041
+108.162.215.48 3 7 272772 20130209170716
+103.22.201.101 2 24 205848 20130203005741
+108.162.216.147 7 7 385971 20130221123342
+108.162.224.22 1 1 349 20130204022153
+173.245.48.61 0 2 3158 
+108.163.194.162 20 24 451764 20130227123243
+117.26.118.132 2 2 8204 20130227220319
+108.162.225.66 4 8 44910 20130224183342
+108.162.231.72 3 11 175247 20130224171636
+108.162.231.80 0 16 143648 
+218.93.211.236 2 2 8204 20130228083805
+108.162.231.65 0 14 288690 
+199.27.128.208 0 26 363753 
+120.43.11.51 3 3 12306 20130228171517
+103.22.201.95 0 3 37233 
+173.245.62.142 1 2 6106 20130225162702
+199.27.128.234 0 1 151807 
+108.162.231.50 1 8 158992 20130222015149
+199.27.128.62 0 23 347536 
+141.101.99.243 1 1 349 20130209132818
+108.162.216.141 0 1 819 
+108.162.212.81 1 1 4102 20130221043945
+95.79.60.104 1 1 325 20130213163022
+108.162.216.154 0 7 13552 
+173.245.62.140 0 2 5152 
+58.22.138.8 1 1 4102 20130228100048
+173.245.56.132 4 4 1396 20130224085403
+108.162.231.67 1 1 60 20130220030914
+108.162.225.159 2 36 280844 20130217075154
+173.245.56.137 1 1 11597 20130208042206
+103.22.201.177 1 28 410713 20130204001800
+173.245.55.159 0 2 7070 
+108.162.231.73 0 4 59470 
+173.245.55.153 6 14 353329 20130224123128
+108.162.225.154 0 3 66297 
+173.245.55.152 23 23 293873 20130224123124
+108.162.222.72 1 1 349 20130208014527
+108.162.222.48 0 2 1482 
+108.162.225.72 0 47 195086 
+173.245.48.71 3 3 12306 20130205085823
+173.245.48.73 1 1 4102 20130224021220
+173.245.56.129 1 1 4974 20130206110916
+103.22.201.176 25 32 1044575 20130224165303
+108.162.215.46 0 3 52926 
+69.58.178.57 2 2 54010 20130209054224
+173.245.55.140 1 3 8762 20130219193915
+108.162.212.62 1 1 4102 20130209214114
+173.245.48.142 0 2 129674 
+173.245.62.154 1 1 4102 20130223061620
+108.162.221.153 0 13 136688 
+108.162.221.60 2 9 375964 20130210225715
+173.245.50.152 0 11 145340 
+173.245.55.71 30 30 199924 20130219124215
+173.245.56.126 0 1 453870 
+173.245.53.163 1 1 349 20130220201136
+108.162.216.146 12 12 167182 20130221123345
+178.137.92.96 2 2 27918 20130228201806
+173.245.48.141 0 7 107755 
+173.245.48.65 2 2 8204 20130218165522
+108.162.216.152 61 61 378354 20130224123151
+199.27.128.230 0 1 4251 
+108.162.215.160 1 1 349 20130224150357
+108.162.246.130 1 1 6899 20130208014231
+108.162.221.59 0 15 229857 
+173.245.50.72 1 1 6899 20130208174542
+108.162.225.142 5 17 513421 20130222051748
+103.22.201.188 2 9 263318 20130208070915
+108.162.215.60 1 3 108308 20130221210001
+103.22.201.78 5 26 2307314 20130223104546
+103.22.201.96 13 41 971333 20130213024013
+108.162.215.58 1 2 27293 20130207060652
+110.86.186.202 4 4 16408 20130228161302
+173.245.48.60 0 3 25899 
+108.162.225.61 0 28 1727653 
+199.27.128.235 1 3 465205 20130209195951
+173.245.48.66 1 1 4102 20130223062118
+108.162.216.47 4 5 220940 20130223123339
+108.162.231.54 1 6 37528 20130223051641
+108.162.222.148 1 1 4102 20130203215305
+125.27.135.129 57 341 12206476 20130209103457
+91.207.4.186 15 15 209385 20130228201707
+173.245.50.61 0 19 236752 
+91.207.9.226 9 9 125631 20130228214526
+141.101.99.100 1 1 4102 20130216092423
+108.162.215.47 2 10 150563 20130209170708
+108.162.225.153 9 14 292709 20130211013030
+173.245.56.136 1 1 5832 20130208042226
+218.207.176.116 1 1 349 20130225025350
+108.162.231.71 1 27 278896 20130223062115
+108.162.215.50 2 17 342878 20130209170436
+108.162.216.142 0 1 1936 
+199.27.128.83 3 3 12306 20130218185841
+108.162.221.142 0 2 3312 
+108.162.215.142 0 4 26599 
+101.109.55.53 47 297 4384742 20130204012241
+108.162.221.148 0 14 66412 
+108.162.226.154 1 1 349 20130209034919
+108.162.231.49 6 19 169808 20130224155711
+173.245.55.158 4 4 56444 20130219124125
+108.162.216.67 5 13 296550 20130218124230
+173.245.49.61 1 1 1372 20130214004042
+75.126.109.227 1 1 11318 20130225104849
+103.22.201.171 22 75 1413470 20130210052945
+199.27.128.209 0 17 175723 
+108.162.212.67 1 1 4102 20130215235759
+199.27.128.212 0 14 196683 
+199.27.128.213 0 16 175187 
+117.28.254.174 1 1 349 20130228004916
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130201 601 621 2668034 14
+20130202 48 49 1123023 14
+20130203 169 222 2036529 29
+20130204 165 602 16092508 27
+20130205 23 52 858787 16
+20130206 43 117 2752014 24
+20130207 31 35 213136 15
+20130208 192 734 9757949 40
+20130209 644 3771 42050272 51
+20130210 35 81 1292343 16
+20130211 32 102 2486902 17
+20130212 26 63 1792140 11
+20130213 45 120 2172115 14
+20130214 7 7 81676 7
+20130215 27 30 209630 13
+20130216 38 60 845858 22
+20130217 21 51 1191873 15
+20130218 36 60 1013628 15
+20130219 25 28 204688 10
+20130220 31 54 1136053 15
+20130221 16 99 1728407 14
+20130222 33 165 1957825 18
+20130223 63 205 2598223 31
+20130224 151 513 7991107 32
+20130225 55 167 2132245 23
+20130226 49 73 1473922 21
+20130227 42 66 1279397 18
+20130228 76 100 1724144 35
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 17
+30s-2mn 41
+2mn-5mn 9
+15mn-30mn 7
+0s-30s 482
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/desktop/blog/wp-login.php 547 1671835 3 2
+/error/404.html 308 469494 208 214
+/ 292 1543471 156 109
+/desktop/blog/wp-admin/theme-editor.php 246 8210518 5 3
+/desktop/blog/ 241 1343278 17 15
+/desktop/blog/wp-admin/admin-ajax.php 129 212743 3 5
+/blog/32 104 1038225 42 41
+/desktop/blog/happy-holidays/ 88 434834 12 14
+/desktop/blog/wp-admin/load-scripts.php 86 3655184 0 3
+/desktop/blog/ethiopian-found/ 86 375219 18 23
+/mobile/index.old.php 34 1846847 30 30
+/desktop/blog/wp-admin/profile.php 1 39711 0 0
+/desktop/blog/wp-admin/options-general.php 30 917106 1 2
+/desktop/blog/wp-admin/update.php 3 25367 0 0
+/desktop/blog/technical-update/ 32 224650 2 0
+/desktop/blog/wp-admin/admin.php 9 52051 0 0
+/desktop/blog/wp-admin/update-core.php 8 213519 0 0
+/googleb843976d0e34fc0c.html 1 357 1 1
+/blog/37 3 13551 2 2
+/phpmyadmin/scripts/setup.php 1 60 1 1
+/blog/ 2 10192 2 0
+/desktop/blog/wp-admin/plugins.php 3 128959 0 0
+/desktop/blog/xmlrpc.php 25 45272 1 1
+/desktop/blog/the-first-of-many/ 30 177608 0 0
+/desktop/blog/ambition/ 28 192351 0 2
+/desktop/blog/wp-admin/edit.php 6 358798 0 0
+/desktop/blog/wp-admin/post.php 8 625777 0 1
+/desktop/blog/wp-admin/load-styles.php 46 1086671 1 0
+/desktop/blog/wp-includes/js/tinymce/wp-tinymce.php 2 231436 0 0
+/desktop/blog/circumlocutions/ 30 251879 0 1
+/desktop/blog/wp-admin/themes.php 2 60938 0 0
+/desktop/blog/where-is-here/ 34 181258 0 0
+/desktop/blog/4/ 29 393556 1 1
+/desktop/blog/wp-admin/ 10 153762 2 0
+/desktop/ 2 7244 1 1
+/desktop/blog/wp-admin/edit-comments.php 4 221594 0 0
+/desktop/blog/search/1 1 5840 0 0
+/wp-trackback.php 1 60 1 0
+/blog/85/dsc01298-2 1 11318 1 1
+/desktop/blog/first-time/ 31 225329 1 1
+/desktop/blog/feed/ 23 590247 0 0
+/myadmin/scripts/setup.php 1 60 1 1
+/wordpress/wp-trackback.php 1 60 0 0
+/desktop/blog/foreign/ 34 180778 0 0
+/blog.php 70 283098 58 58
+/wp/wp-trackback.php 1 60 0 0
+/news/wp-trackback.php 1 60 0 1
+/index.php 28 587864 5 24
+/img/icon/png 1 349 1 0
+/desktop/blog/author/admin/ 20 184560 0 19
+END_SIDER

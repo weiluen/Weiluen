@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#blogging {
+	color:#663399;
+	font-size:36px;
+	margin-left:-270px;
+}
+
+*.tab { 
+	margin-left: 40px;
+}
+
+.inform {
+	font-size: 300%;
+	text-align: center;
+	color: :#663399;
+}
+
+#weiluen {
+	font-size:1000%;
+	font-weight: bold;
+}
+	
+.info {
+	font-size: 180%;
+	color: #6A6A6A;
+	font-family: inherit;
+}
+
+.abouts {
+	font-weight: bold;
+}
